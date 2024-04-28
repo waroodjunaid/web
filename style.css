@@ -1,0 +1,18 @@
+body {  
+    background-image: url(image\ 33.png);
+    
+}
+
+.logo { width: 50px; 
+height: 50px;}
+
+.container-fluid { background-color: rgb(34, 33, 33);
+
+}
+.nav-item { color: white;}
+.image1 { margin-top: 100px;
+margin-bottom: 100px;}
+
+.para { color: white;
+ text-align: center;
+font-size: 20px;}
